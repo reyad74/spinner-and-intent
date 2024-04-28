@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="sppinerValues">
+        <item></item>
+        <item>CSE</item>
+        <item>SWE</item>
+    </string-array>
+</resources>
